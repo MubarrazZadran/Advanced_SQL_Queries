@@ -1,2 +1,2 @@
 # Advanced_SQL_Queries
-This project is about using window functions to analyze data efficiently. 
+This project analyzes data from schools attended by Major League Baseball (MLB) players. Using window functions and Common Table Expressions (CTEs), I created a table that highlights the top schools producing the most MLB players per decade since the 1860s. Additionally, I used JOINs to combine school and school details tables, ensuring that each school's name and relevant details are included. 
